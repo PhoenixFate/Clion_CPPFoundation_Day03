@@ -87,7 +87,7 @@ void test101()
     }
 }
 
-int main() {
+int main01() {
     Cube cube;
     cube.setHeight(10);
     cube.setLength(10);

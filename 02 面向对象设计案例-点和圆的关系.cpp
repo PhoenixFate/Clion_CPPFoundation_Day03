@@ -71,7 +71,7 @@ void test203()
         cout<<"\b点在圆上"<<endl;
     }
 }
-int main()
+int main2()
 {
     test201();
     test202();
